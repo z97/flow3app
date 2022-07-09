@@ -56,6 +56,7 @@ export function WelcomePage() {
 
   return (
     <Container maxWidth="sm" className="main-container">
+      <h1>Hello</h1>
       <Card className="auth-card" variant="outlined">
         
         <form
